@@ -1,0 +1,5 @@
+data/*.json filter=lfs diff=lfs merge=lfs -text
+data/*.asc filter=lfs diff=lfs merge=lfs -text
+data/*.edf filter=lfs diff=lfs merge=lfs -text
+data/*_recordings.txt filter=lfs diff=lfs merge=lfs -text
+data/*_samples.csv filter=lfs diff=lfs merge=lfs -text

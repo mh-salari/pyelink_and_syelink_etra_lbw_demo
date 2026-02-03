@@ -1,0 +1,45 @@
+--------------------------------------------------------------------------------
+CALIBRATIONS
+--------------------------------------------------------------------------------
+[1] Calibration @ 10582446ms (HV9)
+    MSG	10582447 !CAL CALIBRATION HV9 LR LEFT    GOOD
+    MSG	10582447 !CAL CALIBRATION HV9 LR RIGHT   GOOD
+[2] Calibration @ 10665275ms (HV9)
+    MSG	10665276 !CAL CALIBRATION HV9 LR LEFT    GOOD
+    MSG	10665276 !CAL CALIBRATION HV9 LR RIGHT   GOOD
+--------------------------------------------------------------------------------
+VALIDATIONS
+--------------------------------------------------------------------------------
+[1] Validation @ 10606247ms (HV9)
+    MSG	10606247 !CAL VALIDATION HV9 LR LEFT  GOOD ERROR 0.57 avg. 0.94 max  OFFSET 0.52 deg. -19.4,-23.8 pix.
+    MSG	10606248 !CAL VALIDATION HV9 LR RIGHT GOOD ERROR 0.32 avg. 0.60 max  OFFSET 0.23 deg. 12.6,-3.8 pix.
+[2] Validation @ 10647444ms (HV9)
+    MSG	10647444 !CAL VALIDATION HV9 LR LEFT  POOR ERROR 3.24 avg. 3.82 max  OFFSET 3.23 deg. 53.4,183.7 pix.
+    MSG	10647444 !CAL VALIDATION HV9 LR RIGHT POOR ERROR 1.48 avg. 2.05 max  OFFSET 1.43 deg. -70.3,-46.4 pix.
+[3] Validation @ 10683709ms (HV9)
+    MSG	10683709 !CAL VALIDATION HV9 LR LEFT  GOOD ERROR 0.20 avg. 0.38 max  OFFSET 0.08 deg. -1.5,4.4 pix.
+    MSG	10683709 !CAL VALIDATION HV9 LR RIGHT GOOD ERROR 0.28 avg. 0.77 max  OFFSET 0.08 deg. 1.1,-4.9 pix.
+[4] Validation @ 10740014ms (HV9)
+    MSG	10740014 !CAL VALIDATION HV9 LR LEFT  POOR ERROR 3.97 avg. 4.41 max  OFFSET 3.96 deg. -65.4,-221.7 pix.
+    MSG	10740014 !CAL VALIDATION HV9 LR RIGHT POOR ERROR 1.29 avg. 2.36 max  OFFSET 1.25 deg. 62.6,37.3 pix.
+--------------------------------------------------------------------------------
+RECORDINGS
+--------------------------------------------------------------------------------
+
+[1] Recording: 10538021ms - 10538134ms (Duration: 113ms)
+[2] Recording: 10538134ms - 10568380ms (Duration: 30246ms)
+[3] Recording: 10568380ms - 10568454ms (Duration: 74ms)
+[4] Recording: 10571073ms - 10589306ms (Duration: 18233ms)
+[5] Recording: 10592632ms - 10607846ms (Duration: 15214ms)
+[6] Recording: 10610583ms - 10610726ms (Duration: 143ms)
+[7] Recording: 10611040ms - 10616563ms (Duration: 5523ms)
+[8] Recording: 10616676ms - 10631761ms (Duration: 15085ms)
+[9] Recording: 10633655ms - 10648753ms (Duration: 15098ms)
+[10] Recording: 10650226ms - 10650333ms (Duration: 107ms)
+[11] Recording: 10653485ms - 10668608ms (Duration: 15123ms)
+[12] Recording: 10672253ms - 10684877ms (Duration: 12624ms)
+[13] Recording: 10687040ms - 10687170ms (Duration: 130ms)
+[14] Recording: 10687483ms - 10693041ms (Duration: 5558ms)
+[15] Recording: 10693153ms - 10723303ms (Duration: 30150ms)
+[16] Recording: 10726021ms - 10742021ms (Duration: 16000ms)
+[17] Recording: 10743486ms - 10743627ms (Duration: 141ms)
